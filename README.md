@@ -55,17 +55,17 @@
 ```
 iOS 분야에서는 Swift를 활용할 수 있고, 이런 것들에 익숙한 분을 찾고 있습니다.
 ```markdown
-AutoLayout, CollectionView 활용, MVC/Delegate/Observer 패턴, 네트워크 비동기 프로그래밍
+CollectionView 활용, 오토레이아웃, 확장 가능한 앱 아키텍처, 네트워크 비동기 프로그래밍
 ```
 Android 분야에서는 Kotlin를 활용할 수 있고, 이런 것들에 익숙한 분을 찾고 있습니다.
 ```markdown
-<수정필요> AutoLayout, CollectionView 활용, MVC/Delegate/Observer 패턴, 네트워크 비동기 프로그래밍
+RecyclerView 활용, 메모리 최적화, ConstraintLayout, MVVM 구조, 네트워크 비동기 프로그래밍
 ```
 
 감사하게도 이런 경험이 있으시다면 더욱 환영합니다 :)
 ```markdown
 - MAU 50만 이상의 서비스를 개발해본적 있는 분
-- 웹, 모바일 분야에서 full-stack 개발 경험이 있는 분
+- 웹, 모바일 분야에서 Full-stack 개발 경험이 있는 분
 - 현업에서 node.js를 사용하고 있는 분
 ```
 
@@ -80,12 +80,12 @@ Android 분야에서는 Kotlin를 활용할 수 있고, 이런 것들에 익숙�
 
 ### 어떻게 지원할 수 있나요?!
 1. 다음의 링크로 이동하여 지원서를 작성해주세요. [지원서 작성](http://naver.me/Ft8Sb02k)
-2. 다음의 코드에 직접 리뷰 의견을 남깁니다. [Web](https://github.com/connectfoundation/review_webmobile6/tree/main/review_practice) / [iOS](https://github.com/boostcamp-3rd/iOS-teamA1) / [Android](https://github.com/boostcamp-3rd/android_teamC)
+2. 다음의 코드에 직접 리뷰 의견을 남깁니다. [Web](https://github.com/connectfoundation/review_webmobile6/tree/main/review_practice) / [iOS](https://github.com/boostcamp-3rd/iOS-teamA1) 
 
 `리뷰 작성시 유의 사항`
  - 리뷰할 코드의 저장소를 fork합니다.
- - 저장소의 `master`(웹), `develop`(iOS),`develop`(Android)브랜치를 `review` 브랜치로 merge 합니다.
- - (iOS,Android)`review` 브랜치에서 다음 명령으로 develop 브랜치 코드를 모두 반영합니다. <br/>
+ - 저장소의 `master`(웹), `develop`(iOS) 브랜치를 `review` 브랜치로 merge 합니다.
+ - (iOS)`review` 브랜치에서 다음 명령으로 develop 브랜치 코드를 모두 반영합니다. <br/>
  ` git pull origin develop --allow-unrelated-histories`
  - 리뷰를 작성하기 위해 저장소의 `review` 브랜치로 Pull Request 합니다.
  - 내가 오픈한 PR에 코드 리뷰 코멘트를 남깁니다.
