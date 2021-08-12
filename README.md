@@ -33,14 +33,14 @@
 - 리뷰는 화/목요일 혹은 수/금요일에 수행합니다.
 - 1회의 코드 리뷰시 전체 시간은 2시간을 권장합니다.
 - 웹 분야는 프론트엔드, 백엔드를 번갈아 가며 개발합니다. 따라서, 웹 분야 리뷰어는 2주마다 리뷰를 수행합니다. 반면, iOS 분야와 Android 리뷰어는 매주 리뷰를 수행합니다.
-- 리뷰할 코드의 수준이 궁금하다면 [산출물 예시](https://github.com/connectfoundation/review_2020/tree/master/review_practice)를 참고해주세요. (JavaScript 기준)
+- 리뷰할 코드의 수준이 궁금하다면 [산출물 예시](https://github.com/connectfoundation/review_webmobile6/tree/main/review_practice)를 참고해주세요. (JavaScript 기준)
 
 `리뷰어 정기 회고 @zoom`
 - 매주 월요일 저녁, 한 주간의 리뷰 활동을 다 같이 회고해봅니다.
 - 1회의 회고 모임은 1~1.5시간 동안 진행합니다.
 
 ### 어떤 분야를 모집하나요?
-웹 프론트엔드, 웹 백엔드(node.js), iOS, Android를 모집합니다. 지원시 네 분야 중 하나를 선택해야 합니다.
+웹, 웹 백엔드(node.js), iOS, Android를 모집합니다. 지원시 네 분야 중 하나를 선택해야 합니다.
 
 ### 지원 자격이 어떻게 되나요?
 후배 개발자를 위한 마음이 가장 중요하겠죠?! 원활한 리뷰 활동을 위해 다음의 조건을 확인해주세요.
