@@ -85,13 +85,15 @@ RecyclerView 활용, 메모리 최적화, ConstraintLayout, MVVM 구조, 네트�
 
 ### 지원 방법은요?
 1. 다음 링크로 이동하여 지원서를 작성해주세요. [지원서 작성](http://naver.me/Ft8Sb02k)
-2. 다음 코드에 직접 리뷰 의견을 남깁니다. [Web] / [iOS](https://github.com/boostcamp-2020/Project18-B-iOS-BoostRunClub) / [Android](https://github.com/boostcamp-3rd/android_teamC) 
+2. 다음 코드에 직접 리뷰 의견을 남깁니다. [Web](https://github.com/connectfoundation/review_webmobile6/tree/main/review_practice) / [iOS](https://github.com/boostcamp-2020/Project18-B-iOS-BoostRunClub) / [Android](https://github.com/boostcamp-3rd/android_teamC) 
 
 `리뷰 작성시 유의 사항`
  - 리뷰할 코드의 저장소를 fork합니다.
- - 저장소의 `master`(웹), `develop`(iOS) 브랜치를 `review` 브랜치로 merge 합니다.
- - (iOS)`review` 브랜치에서 다음 명령으로 develop 브랜치 코드를 모두 반영합니다. <br/>
- ` git pull origin develop --allow-unrelated-histories`
+ - 저장소의 `master`(웹, iOS 해당), `dev`(Android 해당) 브랜치를 review 브랜치로 merge합니다.
+ - (iOS)review 브랜치에서 다음 명령으로 master 브랜치 코드를 모두 반영합니다. 
+ ` git pull origin master --allow-unrelated-histories`
+ - (Android)review 브랜치에서 다음 명령으로 develop 브랜치 코드를 모두 반영합니다. 
+ ` git pull origin dev --allow-unrelated-histories`
  - 리뷰를 작성하기 위해 저장소의 `review` 브랜치로 Pull Request 합니다.
  - 내가 오픈한 PR에 코드 리뷰 코멘트를 남깁니다.
  - PR 로그가 없는 경우 미지원으로 간주합니다.
