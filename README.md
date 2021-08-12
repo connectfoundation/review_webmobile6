@@ -39,7 +39,7 @@
 - 1회의 코드 리뷰시 전체 시간은 2시간을 권장합니다.
 - 웹 분야는 프론트엔드와 백엔드를 번갈아 가며 개발합니다. 따라서, 웹 분야 리뷰어는 2주마다 리뷰를 수행합니다. 
 - 모바일 분야 리뷰어는 매주 리뷰를 수행합니다.
-- 리뷰할 코드의 수준이 궁금하다면 [작년 예시](https://github.com/connectfoundation/review_webmobile6/tree/main/review_practice)를 참고해주세요. (JavaScript 기준)
+- 리뷰할 코드의 수준이 궁금하다면 [예시](https://github.com/connectfoundation/review_webmobile6/tree/main/review_practice)를 참고해주세요. (JavaScript 기준)
 
 `리뷰어 정기 회고 @zoom`
 - 매주 월요일 저녁, 한 주간의 리뷰 활동을 다 같이 회고해봅니다.
