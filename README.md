@@ -90,9 +90,9 @@ RecyclerView 활용, 메모리 최적화, ConstraintLayout, MVVM 구조, 네트�
 `리뷰 작성시 유의 사항`
  - 리뷰할 코드의 저장소를 fork합니다.
  - 저장소의 `master`(웹, iOS 해당), `dev`(Android 해당) 브랜치를 review 브랜치로 merge합니다.
- - (iOS)review 브랜치에서 다음 명령으로 master 브랜치 코드를 모두 반영합니다. 
+ - (iOS)review 브랜치에서 다음 명령으로 master 브랜치 코드를 모두 반영합니다. <br/>
  ` git pull origin master --allow-unrelated-histories`
- - (Android)review 브랜치에서 다음 명령으로 develop 브랜치 코드를 모두 반영합니다. 
+ - (Android)review 브랜치에서 다음 명령으로 develop 브랜치 코드를 모두 반영합니다. <br/>
  ` git pull origin dev --allow-unrelated-histories`
  - 리뷰를 작성하기 위해 저장소의 `review` 브랜치로 Pull Request 합니다.
  - 내가 오픈한 PR에 코드 리뷰 코멘트를 남깁니다.
