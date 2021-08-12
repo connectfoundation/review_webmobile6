@@ -80,7 +80,7 @@ RecyclerView 활용, 메모리 최적화, ConstraintLayout, MVVM 구조, 네트�
 
 ### 어떻게 지원할 수 있나요?!
 1. 다음의 링크로 이동하여 지원서를 작성해주세요. [지원서 작성](http://naver.me/Ft8Sb02k)
-2. 다음의 코드에 직접 리뷰 의견을 남깁니다. [Web](https://github.com/connectfoundation/review_webmobile6/tree/main/review_practice) / [iOS](https://github.com/boostcamp-3rd/iOS-teamA1) / Android 추후 공개
+2. 다음의 코드에 직접 리뷰 의견을 남깁니다. [Web](https://github.com/connectfoundation/review_webmobile6/tree/main/review_practice) / [iOS](https://github.com/boostcamp-2020/Project18-B-iOS-BoostRunClub) / [Android](https://github.com/boostcamp-3rd/android_teamC) 
 
 `리뷰 작성시 유의 사항`
  - 리뷰할 코드의 저장소를 fork합니다.
