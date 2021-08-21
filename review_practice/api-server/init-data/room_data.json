@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Clean안녕 & quiet apt home by the park",
+        "price": 30000,
+        "max_guest": 2,
+        "star_rating": 3,
+        "review_num": 12,
+        "image_path": null,
+        "user_id": 2,
+        "room_type_id": 1
+    },
+    {
+        "name": "Skylit Midtown Castle",
+        "price": 40000,
+        "max_guest": 4,
+        "star_rating": 4,
+        "review_num": 432,
+        "image_path": null,
+        "user_id": 3,
+        "room_type_id": 2
+    },
+    {
+        "name": "THE VILLAGE OF HARLEM....NEW YORK !",
+        "price": 50000,
+        "max_guest": 5,
+        "star_rating": 5,
+        "review_num": 235,
+        "image_path": null,
+        "user_id": 2,
+        "room_type_id": 3
+    },
+    {
+        "name": "Cozy Entire Floor of Brownstone",
+        "price": 60000,
+        "max_guest": 6,
+        "star_rating": 1,
+        "review_num": 45,
+        "image_path": null,
+        "user_id": 3,
+        "room_type_id": 1
+    },
+    {
+        "name": "Entire Apt: Spacious Studio/Loft by central park",
+        "price": 45000,
+        "max_guest": 3,
+        "star_rating": 2,
+        "review_num": 12,
+        "image_path": null,
+        "user_id": 2,
+        "room_type_id": 2
+    },
+    {
+        "name": "Large Cozy 1 BR Apartment In Midtown East",
+        "price": 30000,
+        "max_guest": 2,
+        "star_rating": 2,
+        "review_num": 432,
+        "image_path": null,
+        "user_id": 3,
+        "room_type_id": 3
+    },
+    {
+        "name": "BlissArtsSpace!",
+        "price": 40000,
+        "max_guest": 1,
+        "star_rating": 3,
+        "review_num": 235,
+        "image_path": null,
+        "user_id": 2,
+        "room_type_id": 4
+    },
+    {
+        "name": "Large Furnished Room Near B'way ",
+        "price": 30000,
+        "max_guest": 2,
+        "star_rating": 4,
+        "review_num": 45,
+        "image_path": null,
+        "user_id": 3,
+        "room_type_id": 1
+    },
+    {
+        "name": "Cozy Clean Guest Room - Family Apt",
+        "price": 40000,
+        "max_guest": 3,
+        "star_rating": 5,
+        "review_num": 12,
+        "image_path": null,
+        "user_id": 2,
+        "room_type_id": 2
+    },
+    {
+        "name": "Cute & Cozy Lower East Side 1 bdrm",
+        "price": 30000,
+        "max_guest": 4,
+        "star_rating": 1,
+        "review_num": 432,
+        "image_path": null,
+        "user_id": 3,
+        "room_type_id": 3
+    },
+    {
+        "name": "Beautiful 1br on Upper West Side",
+        "price": 40000,
+        "max_guest": 5,
+        "star_rating": 2,
+        "review_num": 235,
+        "image_path": null,
+        "user_id": 2,
+        "room_type_id": 1
+    },
+    {
+        "name": "Central Manhattan/near Broadway",
+        "price": 30000,
+        "max_guest": 6,
+        "star_rating": 2,
+        "review_num": 45,
+        "image_path": null,
+        "user_id": 3,
+        "room_type_id": 2
+    },
+    {
+        "name": "Lovely Room 1, Garden, Best Area, Legal rental",
+        "price": 40000,
+        "max_guest": 7,
+        "star_rating": 3,
+        "review_num": 12,
+        "image_path": null,
+        "user_id": 2,
+        "room_type_id": 3
+    },
+    {
+        "name": "Wonderful Guest Bedroom in Manhattan for SINGLES",
+        "price": 50000,
+        "max_guest": 2,
+        "star_rating": 4,
+        "review_num": 432,
+        "image_path": null,
+        "user_id": 3,
+        "room_type_id": 4
+    },
+    {
+        "name": "West Village Nest - Superhost",
+        "price": 60000,
+        "max_guest": 3,
+        "star_rating": 5,
+        "review_num": 235,
+        "image_path": null,
+        "user_id": 2,
+        "room_type_id": 3
+    },
+    {
+        "name": "Only 2 stops to Manhattan studio",
+        "price": 45000,
+        "max_guest": 4,
+        "star_rating": 1,
+        "review_num": 45,
+        "image_path": null,
+        "user_id": 3,
+        "room_type_id": 4
+    }
+]
