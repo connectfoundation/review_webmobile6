@@ -1,0 +1,33 @@
+{
+    "name": "api-server",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "nodemon --exec babel-node app.js",
+        "start": "babel-node app.js"
+    },
+    "author": "YukJiSoo",
+    "dependencies": {
+        "@babel/runtime": "^7.6.2",
+        "apollo-server": "^2.9.6",
+        "crypto": "^1.0.1",
+        "csv-parser": "^2.3.1",
+        "debug": "~2.6.9",
+        "dotenv": "^8.1.0",
+        "graphql": "^14.5.8",
+        "jsonwebtoken": "^8.5.1",
+        "mysql2": "^1.7.0",
+        "sequelize": "^5.19.6",
+        "sequelize-cli": "^5.5.1"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.6.2",
+        "@babel/core": "^7.6.2",
+        "@babel/node": "^7.6.2",
+        "@babel/plugin-transform-runtime": "^7.6.2",
+        "@babel/polyfill": "^7.6.0",
+        "@babel/preset-env": "^7.6.2",
+        "nodemon": "^1.19.0",
+        "prettier": "1.18.2"
+    }
+}
