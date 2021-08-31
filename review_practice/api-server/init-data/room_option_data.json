@@ -1,0 +1,162 @@
+[
+    {
+        "bed": 1,
+        "bedroom": 3,
+        "bathroom": 2,
+        "free_parking": false,
+        "wifi": true,
+        "kitchen": false,
+        "washer": false,
+        "id": 1
+    },
+    {
+        "bed": 2,
+        "bedroom": 1,
+        "bathroom": 2,
+        "free_parking": false,
+        "wifi": false,
+        "kitchen": true,
+        "washer": true,
+        "id": 2
+    },
+    {
+        "bed": 3,
+        "bedroom": 3,
+        "bathroom": 3,
+        "free_parking": false,
+        "wifi": true,
+        "kitchen": false,
+        "washer": false,
+        "id": 3
+    },
+    {
+        "bed": 4,
+        "bedroom": 2,
+        "bathroom": 2,
+        "free_parking": true,
+        "wifi": false,
+        "kitchen": true,
+        "washer": false,
+        "id": 4
+    },
+    {
+        "bed": 1,
+        "bedroom": 3,
+        "bathroom": 1,
+        "free_parking": true,
+        "wifi": false,
+        "kitchen": false,
+        "washer": true,
+        "id": 5
+    },
+    {
+        "bed": 2,
+        "bedroom": 2,
+        "bathroom": 1,
+        "free_parking": false,
+        "wifi": true,
+        "kitchen": true,
+        "washer": true,
+        "id": 6
+    },
+    {
+        "bed": 3,
+        "bedroom": 1,
+        "bathroom": 2,
+        "free_parking": false,
+        "wifi": true,
+        "kitchen": true,
+        "washer": false,
+        "id": 7
+    },
+    {
+        "bed": 4,
+        "bedroom": 2,
+        "bathroom": 2,
+        "free_parking": true,
+        "wifi": false,
+        "kitchen": true,
+        "washer": false,
+        "id": 8
+    },
+    {
+        "bed": 4,
+        "bedroom": 3,
+        "bathroom": 1,
+        "free_parking": false,
+        "wifi": true,
+        "kitchen": false,
+        "washer": false,
+        "id": 9
+    },
+    {
+        "bed": 3,
+        "bedroom": 2,
+        "bathroom": 1,
+        "free_parking": false,
+        "wifi": false,
+        "kitchen": true,
+        "washer": true,
+        "id": 10
+    },
+    {
+        "bed": 2,
+        "bedroom": 1,
+        "bathroom": 1,
+        "free_parking": false,
+        "wifi": true,
+        "kitchen": false,
+        "washer": false,
+        "id": 11
+    },
+    {
+        "bed": 3,
+        "bedroom": 2,
+        "bathroom": 2,
+        "free_parking": true,
+        "wifi": false,
+        "kitchen": true,
+        "washer": false,
+        "id": 12
+    },
+    {
+        "bed": 4,
+        "bedroom": 3,
+        "bathroom": 2,
+        "free_parking": true,
+        "wifi": false,
+        "kitchen": false,
+        "washer": true,
+        "id": 13
+    },
+    {
+        "bed": 2,
+        "bedroom": 4,
+        "bathroom": 2,
+        "free_parking": false,
+        "wifi": true,
+        "kitchen": true,
+        "washer": true,
+        "id": 14
+    },
+    {
+        "bed": 1,
+        "bedroom": 3,
+        "bathroom": 3,
+        "free_parking": false,
+        "wifi": true,
+        "kitchen": true,
+        "washer": false,
+        "id": 15
+    },
+    {
+        "bed": 2,
+        "bedroom": 2,
+        "bathroom": 1,
+        "free_parking": true,
+        "wifi": false,
+        "kitchen": true,
+        "washer": false,
+        "id": 16
+    }
+]
